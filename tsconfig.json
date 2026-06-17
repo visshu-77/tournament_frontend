@@ -31,10 +31,5 @@
         "./src/*"
       ]
     }
-  },
-  "references": [
-    {
-      "path": "../api-client-react"
-    }
-  ]
+  }
 }
